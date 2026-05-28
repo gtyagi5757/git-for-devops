@@ -13,3 +13,14 @@ git status
  1026  git staus
  1027  git status
  1028  touch git_commands.txt
+ 1034  git remote add origin https://github.com/gtyagi5757/git-for-devops.git
+ 1035  git push origin master
+ 1036  git remote -v
+ 1037  ls
+ 1038  touch newfile.py
+ 1039  code newfile.py
+ 1040  git add .
+ 1041  git commit -m "try" newfile.py
+ 1042  git status
+ 1043  git push origin master
+ 1044  git status

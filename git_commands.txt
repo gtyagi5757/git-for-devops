@@ -1,0 +1,15 @@
+git status
+git add .
+git commit -m added testing.py
+git status
+
+
+ 1020  git restore testing.py
+ 1021  git status
+ 1022  git commit -a
+ 1023  git status
+ 1024  git add .
+ 1025  git commit -m addded testing.py
+ 1026  git staus
+ 1027  git status
+ 1028  touch git_commands.txt
